@@ -1,0 +1,6 @@
+{
+  "name": "SENA Inducción Interactiva & Seguimiento",
+  "description": "Plataforma integral para el seguimiento y aprendizaje del proceso de inducción de aprendices SENA con módulos interactivos de identidad institucional, normativa y reglamento del aprendiz, cuestionarios y gestión para instructores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
